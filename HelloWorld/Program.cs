@@ -63,6 +63,8 @@
 // else
 //     Console.WriteLine("Деление на ноль невозможно!");
 
+/*
+
 
 Console.WriteLine("Добро пожаловать в анкету!");
 Console.WriteLine();
@@ -105,3 +107,66 @@ Console.WriteLine($"Лет до 30: {30 - age}");
 Console.WriteLine();
 Console.WriteLine("Нажмите Enter для выхода...");
 Console.ReadLine();
+
+*/
+
+/*
+string favoritegame = "Skyrim";
+string favoritenum = "0";
+string PI = "3.14";
+string favoriteword = "O";
+Console.WriteLine(favoritegame);
+Console.WriteLine(favoritenum);
+Console.WriteLine(PI);
+Console.WriteLine(favoriteword);
+*/
+
+/*
+Console.WriteLine("ВI need more power!");
+Console.WriteLine("ВI need more power!");
+Console.WriteLine("ВI need more power!");
+Console.WriteLine("ВI need more power!");
+*/
+
+/*
+Console.WriteLine("\"Hello there\"");
+*/
+
+/*
+Console.WriteLine("Стоимость монитор:");
+int monitor = int.Parse(Console.ReadLine());
+Console.WriteLine("Стоимость системного блока:");
+int Blok = int.Parse(Console.ReadLine());
+Console.WriteLine("Стоимость клавиатуры:");
+int keyboard = int.Parse(Console.ReadLine());
+Console.WriteLine("Стоимость мышки:");
+int mouse = int.Parse(Console.ReadLine());
+
+Console.WriteLine($"Стоимость монитор: {monitor}");
+
+Console.WriteLine($"Стоимость системного блока: {Blok}");
+
+Console.WriteLine($"Стоимость клавиатуры: {keyboard}");
+
+Console.WriteLine($"Стоимость мышки: {mouse}");
+*/
+
+/*
+Console.WriteLine("Введите A:");
+double A = double.Parse(Console.ReadLine());
+Console.WriteLine("Введите B:");
+double B = double.Parse(Console.ReadLine());
+
+double first = 3*((A+B)*(A+B)*(A+B));
+double second = 275*(B*B);
+double third = 127*A;
+double fourth = 41;
+double result = first + second - third - fourth;    
+*/
+
+/*
+Console.WriteLine("Сколько градусов? (F)");
+int f = int.Parse(Console.ReadLine());
+double c = (f - 32) * 5/9;
+Console.WriteLine($"Температура в градусах Цельсия: {c}");
+*/
